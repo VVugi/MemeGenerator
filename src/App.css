@@ -59,3 +59,8 @@ main {
    border: none;
    cursor: pointer;
 }
+
+.image-result {
+   padding-top: 20px;
+   width: 100%;
+}
